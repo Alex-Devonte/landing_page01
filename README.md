@@ -5,4 +5,4 @@
 | ![Mobile View](mobile.png) | ![Tablet View](tablet.png) |
 
 ## Desktop
- ![Desktop View](desktop.png) 
+ ![Desktop View](desktopscreen.png) 
